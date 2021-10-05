@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Andersen Homework 3</string>
+
+    <!-- MainActivity -->
+    <string name="button_label_task_1">Задание 1</string>
+    <string name="button_label_task_2">Задание 2</string>
+
+    <!-- FirstActivity -->
+    <string name="austria_label">Австрия</string>
+    <string name="poland_label">Польша</string>
+    <string name="italy_label">Италия</string>
+    <string name="colombia_label">Колумбия</string>
+    <string name="madagascar_label">Мадагаскар</string>
+    <string name="thailand_label">Таиланд</string>
+    <string name="denmark_label">Дания</string>
+    <string name="switzerland_label">Швейцария</string>
+    <string name="edit_text_url_hint">Введите адрес изображения</string>
+</resources>
